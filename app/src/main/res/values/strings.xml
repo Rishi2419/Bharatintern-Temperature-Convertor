@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temperature Convertor</string>
+    <string name="type1">Fahrenheit</string>
+    <string name="type2">Celcius</string>
+</resources>
